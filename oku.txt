@@ -1,9 +1,9 @@
-Hafta 7: Gerçek zamanlı savaş simülasyonu üzerinde çalışıldı. Radar ile düşman hedeflerinin (uçak, tank, asker) koordinatları taranıyor ve tespit ediliyor. 
-Tespit edilen hedeflere uçak filomuzdan sorti gönderilerek imha edilmeye çalışılıyor. 
+GerÃ§ek zamanlÄ± savaÅŸ simÃ¼lasyonu Ã¼zerinde Ã§alÄ±ÅŸÄ±ldÄ±. Radar ile dÃ¼ÅŸman hedeflerinin (uÃ§ak, tank, asker) koordinatlarÄ± taranÄ±yor ve tespit ediliyor. 
+Tespit edilen hedeflere uÃ§ak filomuzdan sorti gÃ¶nderilerek imha edilmeye Ã§alÄ±ÅŸÄ±lÄ±yor. 
 
-Önceki sıkıntılar çözüldü:
-- Hedef koordinatları (x, y, z) şeklinde sayısal olarak veriliyor.
-- Savaşta kazanılan ve kaybedilen skorlar takip ediliyor.
-- İmha edilen uçaklar filo listesinden eksiliyor.
+Ã–nceki sÄ±kÄ±ntÄ±lar Ã§Ã¶zÃ¼ldÃ¼:
+- Hedef koordinatlarÄ± (x, y, z) ÅŸeklinde sayÄ±sal olarak veriliyor.
+- SavaÅŸta kazanÄ±lan ve kaybedilen skorlar takip ediliyor.
+- Ä°mha edilen uÃ§aklar filo listesinden eksiliyor.
 
-Yenilik olarak, savaş kazanma stratejisi geliştirilerek başarı ihtimali artırılabilir. Bu aşamada gerçek zamanlı durum takibi, hedef doğruluğu ve filo yönetimi entegre edildi.
+Yenilik olarak, savaÅŸ kazanma stratejisi geliÅŸtirilerek baÅŸarÄ± ihtimali artÄ±rÄ±labilir. Bu aÅŸamada gerÃ§ek zamanlÄ± durum takibi, hedef doÄŸruluÄŸu ve filo yÃ¶netimi entegre edildi.
