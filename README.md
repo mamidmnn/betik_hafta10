@@ -1,0 +1,1 @@
+# betik_hafta10
